@@ -4,7 +4,7 @@ I am flashtechlearning, an embedded software developer.
 
 ### Skills
 
-- C
+- C 
 - C++
 - Python
 - Makefile
