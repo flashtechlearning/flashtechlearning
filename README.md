@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am flashtechlearning, an embedded software developer.
+I am flashtechlearning, an embedded software developer.:smiley:
 
 ### Skills
 
